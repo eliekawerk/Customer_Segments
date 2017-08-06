@@ -1,6 +1,6 @@
 # Customer Segments
 
-This repo contains jupyter notebooks for a data science clustering project. We aim at building a model that can cluster the similar customers of an online retailer.
+This repo contains jupyter notebooks for a data science clustering project. We aim at building a model that can segment the customers of an online retailer.
 
 The code in the notebooks was executed using python 2.7; the following python libraries were used throughout the project:
 
